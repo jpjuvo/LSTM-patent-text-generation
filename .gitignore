@@ -1,0 +1,7 @@
+# Dirs
+data/
+.ipynb_checkpoints/
+
+# zips
+*.zip
+*.tmp
